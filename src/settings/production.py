@@ -5,7 +5,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 
 ALLOWED_HOSTS = [
     # e.g. 'micro.domains', 'www.micro.domains'
-    'localhost'
+    'sell-everything.herokuapp.com'
 ]
 
 DATABASES = {
